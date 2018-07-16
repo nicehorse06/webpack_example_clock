@@ -1,0 +1,11 @@
+.hello {
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+}
+
+.time{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}

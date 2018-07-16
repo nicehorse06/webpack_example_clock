@@ -1,0 +1,10 @@
+# for richard
+node_modules/*
+
+# for vscode
+/.vscode/
+
+# for .js.swp
+*.js.awp
+
+/dist
