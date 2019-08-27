@@ -9,6 +9,8 @@
 
 * 運用webpack babel轉檔、引入CSS module
 
+* webpack產生的結果於dist/中
+
 ## 使用方法：
 
 1. `git clone 這個專案`
