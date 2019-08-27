@@ -1,6 +1,8 @@
 # webpack 簡易demo
 `使用簡單的時鐘頁面，演示webapck`
 
+* [demo網址](https://nicehorse06.github.io/webpack_example_clock/dist/)
+
 * 此node版本為 6.1.0
 
 * 功能為每秒更新時間
